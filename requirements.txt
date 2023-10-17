@@ -1,0 +1,7 @@
+FONT NAME - Tilt+Neon	
+FONT lINK - https://fonts.google.com/specimen/Tilt+Neon
+
+Color Pallate - 0062ff ffbf00 000000 ee0014 71f100
+Color name - neonblue , amber ,black ,red,lawn green
+
+neon-blue : 0062ff 
